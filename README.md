@@ -18,9 +18,7 @@ offline-forum/                                               <br/>
 │   ├── login.html                                           <br/>
 │   ├── register.html                                        <br/>
 │   ├── dashboard.html                                       <br/>
-│   ├── styles.css                                           <br/>
-│   ├── dashboard.js                                         <br/>
-│   └── app.js                                               <br/>
+│   └── styles.css                                           <br/>
 │                                                            <br/>
 ├── server/                                                  <br/>
 │   ├── server.js                                            <br/>
